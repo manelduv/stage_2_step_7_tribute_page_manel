@@ -1,1 +1,36 @@
 /* Copy and paste your CSS from CodePen into here */
+#image {max-width: 100%;
+  display: block;
+  height: auto;}
+
+#title{
+  text-align:center;
+  font-size: 40px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#image{
+  width: 35%;
+  border-radius: 50%;
+}
+#img-caption{
+  text-align: center
+}
+
+#tribute-info{
+  width: 70%;
+  border: 2px solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+#info p{
+  padding: 2%;
+}
+
+
